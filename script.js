@@ -34,7 +34,7 @@ function troll() {
       x.style.display="none";
       y.style.display="block";
       document.getElementById("alert").innerHTML = "ðŸ˜";
-      document.getElementById("alert2").innerHTML = "Cáº­u mÃ  thoÃ¡t trang Web nÃ y hay Block tá»› lÃ  cáº­u Ä‘á»“ng Ã½ nha ðŸ˜›";
+      document.getElementById("alert2").innerHTML = "Cậu mà thoát trang Web này hay Block tớ là cậu đồng ý nha 😛";
       document.getElementById("audio2").play();
       return false;
 }
@@ -65,12 +65,12 @@ function inrel() {
      b.style.display="none";
      z.style.display="none";
      c.innerHTML = "";
-     c.innerHTML = "Cáº­u ráº¥t giá»‘ng vá»›i con dÃ¢u tÆ°Æ¡ng lai cá»§a ba máº¹ tá»› =))";
+     c.innerHTML = "Cậu rất giống với con dâu của bố mẹ tớ lắm =))";
      y.style.display="none";
      x.style.display="inline";
      document.getElementById("audio3").play();
      document.getElementById("alert2").innerHTML = "";
-     document.getElementById("des").innerHTML = "Náº¿u cáº­u khÃ´ng phiá»n thÃ¬ lÃ m ngÆ°á»i yÃªu tá»› nhÃ© ðŸ˜³";
+     document.getElementById("des").innerHTML = "Nếu cậu không phiền thì làm người yêu tớ nhé 😳";
      return false;
 
 }
@@ -84,7 +84,7 @@ function inrel2() {
 
 }
 function trollalt() {
-    document.getElementById("alert2").innerHTML="Sao cáº­u khÃ´ng muá»‘n ? Cáº­u sáº½ ráº¥t báº¥t ngá» Ä‘áº¥y !";
-    alert("Sao cáº­u khÃ´ng muá»‘n ? Cáº­u sáº½ ráº¥t báº¥t ngá» Ä‘áº¥y !");
+    document.getElementById("alert2").innerHTML="Sao cậu không muốn? Cậu sẽ rất bất ngờ đấy!";
+    alert("Sao cậu không muốn? Cậu sẽ rất bất ngờ đấy!");
     return false;
 }
